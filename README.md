@@ -1,6 +1,6 @@
 # Celestial Body Orbital Simulation
 
-
+![Alt text](solarsystemanimation.gif)
 
 ## Description
 This project is a small simulation demonstrating the periodic and relative motion of celestial bodies using the two-body problem approximation. It includes classes to calculate and visualize orbits, as well as manage the attributes of celestial bodies within a system.
